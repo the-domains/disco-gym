@@ -1,19 +1,14 @@
-typography_spectrum: 0.07054404076188803
+layout_spectrum: 0.3634442549664527
+typography_spectrum: 0.8124672099947929
 color:
-  brandStrength: 0.0018539438024163246
-  lightness: 0.30845420388504863
-  saturation: 0.1946701230481267
-  rhythmicContrast: 0.7392479928676039
+  brandStrength: 0.649639097508043
+  lightness: 0.01068701152689755
+  saturation: 0.7599037638865411
+  rhythmicContrast: 0.053194640669971704
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/745c7703-f736-4621-bbdf-c635f3b1d403.jpg
-layout_spectrum: 0.5115479046944529
-name: Disco Gym
-title: Private lessons & Retreats
-description: 'Yoga, Gyrotonic & Hoop'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: DISCO GYM

@@ -10,6 +10,9 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/745c7703-f736-4621-bbdf-c635f3b1d403.jpg
 layout_spectrum: 0.5115479046944529
 name: Disco Gym
 title: Private lessons & Retreats

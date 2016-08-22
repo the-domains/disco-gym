@@ -11,6 +11,10 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.3634442549664527
+author:
+  name: Rebecca Halls
+  email: rebeccahalls@gmail.com
+  url: rebecca-halls.com
 name: DISCO GYM
 navigation:
   - name: About us

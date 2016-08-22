@@ -1,4 +1,3 @@
-layout_spectrum: 0.5115479046944529
 typography_spectrum: 0.07054404076188803
 color:
   brandStrength: 0.0018539438024163246
@@ -6,9 +5,11 @@ color:
   saturation: 0.1946701230481267
   rhythmicContrast: 0.7392479928676039
   brandColors:
-    - '#FFFFFF'
-    - '#8979FF'
-    - '#00DFB7'
-    - '#FFA5A9'
-    - '#241F20'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.5115479046944529
 name: Disco Gym
+description: 'Yoga, Gyrotonic & Hoop'

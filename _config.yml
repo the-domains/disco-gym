@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.3634442549664527
 name: DISCO GYM
+navigation:
+  - name: About us
+    url: 'http//:rebecca-halls.com'
+    type: external
 title: 'GYROTONIC®, YOGA & HOOP'
 description: Private lessons and retreats

@@ -1,24 +1,14 @@
-typography_spectrum: 0.8124672099947929
+layout_spectrum: 0.5115479046944529
+typography_spectrum: 0.07054404076188803
 color:
-  brandStrength: 0.649639097508043
-  lightness: 0.01068701152689755
-  saturation: 0.7599037638865411
-  rhythmicContrast: 0.053194640669971704
+  brandStrength: 0.0018539438024163246
+  lightness: 0.30845420388504863
+  saturation: 0.1946701230481267
+  rhythmicContrast: 0.7392479928676039
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.3634442549664527
-author:
-  name: Rebecca Halls
-  email: rebeccahalls@gmail.com
-  url: rebecca-halls.com
-name: DISCO GYM
-navigation:
-  - name: About us
-    url: 'http//:rebecca-halls.com'
-    type: external
-title: 'GYROTONIC®, YOGA & HOOP'
-description: Private lessons and retreats
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Disco Gym
